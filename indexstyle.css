@@ -2,6 +2,7 @@ body{
     border-style: dotted double;
     border-width:2rem;
     border-color: yellow;
+    background-color: black;
 }
     h1{
         font-family:'Segoe UI';
@@ -11,6 +12,7 @@ body{
    .anchorstarter{
     font-size:16px;
     font-family:'Segoe UI';
-    
+    color:royalblue;
+
    } 
     
