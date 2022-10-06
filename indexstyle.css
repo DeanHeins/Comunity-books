@@ -2,11 +2,15 @@ body{
     border-style: dotted double;
     border-width:2rem;
     border-color: yellow;
-    border-radius: 16px;
-    }
+}
     h1{
         font-family:'Segoe UI';
         color:green;
 
     }
+   .anchorstarter{
+    font-size:16px;
+    font-family:'Segoe UI';
+    
+   } 
     
