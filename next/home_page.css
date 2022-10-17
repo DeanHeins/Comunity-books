@@ -1,4 +1,23 @@
-#div1 {
-    margin-top:3cm;
+a {
+    padding: 16px;
+    margin-top:34px;
+    display: block;
+    width:16px;
+}
+
+a:hover {
+    width:34px;
+
+}
+
+img{
+    animation-name: fadein;
+    animation-duration: 5s;
+}
+
+@keyframes fadein {
+0% { opacity: 0; }
+100% { opacity: 1; }
+
 
 }
