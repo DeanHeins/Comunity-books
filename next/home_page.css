@@ -2,12 +2,6 @@ a {
     padding: 16px;
     margin-top:34px;
     display: block;
-    width:16px;
-}
-
-a:hover {
-    width:34px;
-
 }
 
 img{
