@@ -16,3 +16,10 @@ body{
 
    } 
     
+   .a2 {
+    background-color:white;
+    border-color:blue;
+    color:blue;
+    border-style:solid;
+    
+   }
