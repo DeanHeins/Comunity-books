@@ -17,9 +17,20 @@ body{
    } 
     
    .a2 {
-    background-color:white;
+    background-color:black;
     border-color:blue;
     color:blue;
     border-style:solid;
-    
+    border-radius:15px;
+    padding:16px 34px;
+    margin:2rem;
+    margin-top:4rem;
+    text-decoration:none;
+    transition-duration: 0.5s ;
+
+   }
+
+   .a2:hover {
+    background-color:blue;
+    color:black;
    }
